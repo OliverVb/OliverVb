@@ -130,10 +130,9 @@ Princípios que aplico em todos os projetos:
 
 ## 📫 Contato
 
-<!-- Substitua SEU_PERFIL pelo identificador do seu perfil no LinkedIn (linkedin.com/in/SEU_PERFIL) -->
 <div align="center">
 
-<a href="https://www.linkedin.com/in/SEU_PERFIL">
+<a href="https://www.linkedin.com/in/fabr%C3%ADcio-alves-de-oliveira-15b981217">
   <img src="https://img.shields.io/badge/LinkedIn-0f3460?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 <a href="https://github.com/OliverVb/OliverVb/discussions">
