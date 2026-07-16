@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f3460,50:16213e,100:1a1a2e&text=Fabr%C3%ADcio%20Oliveira&fontColor=e6e6e6&fontSize=44&fontAlignY=35&desc=DevOps%20%7C%20Analista%20de%20Infraestrutura%20%7C%20Desenvolvedor%20Full%20Stack&descSize=18&descAlignY=55" width="100%" alt="Banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f3460,50:16213e,100:1a1a2e&text=Fabr%C3%ADcio%20Oliveira&fontColor=e6e6e6&fontSize=44&fontAlignY=35&desc=Analista%20de%20Infraestrutura%20%7C%20Seguran%C3%A7a%20da%20Informa%C3%A7%C3%A3o%20%7C%20Backend%20.NET%2FC%23&descSize=18&descAlignY=55" width="100%" alt="Banner" />
 
 <img src="https://komarev.com/ghpvc/?username=olivervb&label=Visitas&color=0f3460&style=for-the-badge" alt="Contador de visitas ao perfil" />
 
@@ -12,11 +12,19 @@
 
 ```yaml
 nome: Fabrício Oliveira
-cargo: DevOps | Analista de Infraestrutura | Desenvolvedor Full Stack
+cargo: Analista de Infraestrutura & Segurança da Informação
+empresa_atual: FADEX
 localizacao: Brasil
-foco_atual: Automação de infraestrutura, CI/CD e observabilidade
-disponibilidade: Aberto a novas oportunidades e colaborações
+especialidades:
+  seguranca: [Fortinet, Hardening, Pentest, Gestão de Acessos]
+  infraestrutura: [Proxmox, Active Directory, GPO, Zabbix, Grafana]
+  banco_de_dados: [SQL Server, MySQL, T-SQL, Otimização de Consultas]
+  backend: [.NET, C#, Integração com Bancos Relacionais]
+foco_atual: Servidores, redes e políticas de segurança em ambiente crítico
+disponibilidade: Aberto a oportunidades e novos desafios
 ```
+
+> 💼 **Trajetória:** comecei no suporte técnico (Tahto), passei pela TI do Hospital de Olhos de Aparecida de Goiânia e atuei de 2022 a 2026 na Cristal Alimentos, unindo infraestrutura, segurança interna e desenvolvimento de sistemas em .NET. Hoje sou Analista de Infraestrutura na FADEX, cuidando de servidores, redes e políticas de segurança em ambiente crítico. Sou movido por desafios na interseção entre **infraestrutura, segurança e desenvolvimento**.
 
 <br>
 
@@ -32,6 +40,8 @@ disponibilidade: Aberto a novas oportunidades e colaborações
 <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" alt="Ansible" />
 <img src="https://img.shields.io/badge/Linux-1a1a2e?style=for-the-badge&logo=linux&logoColor=white" alt="Linux" />
 <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx" />
+<img src="https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white" alt="Proxmox" />
+<img src="https://img.shields.io/badge/Active%20Directory-0f3460?style=for-the-badge&logoColor=white" alt="Active Directory" />
 
 </div>
 
@@ -53,6 +63,7 @@ disponibilidade: Aberto a novas oportunidades e colaborações
 <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins" />
 <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" alt="Prometheus" />
 <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana" />
+<img src="https://img.shields.io/badge/Zabbix-CC0000?style=for-the-badge&logoColor=white" alt="Zabbix" />
 
 </div>
 
@@ -67,6 +78,7 @@ disponibilidade: Aberto a novas oportunidades e colaborações
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
 <img src="https://img.shields.io/badge/.NET%20Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET Framework" />
+<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logoColor=white" alt="C#" />
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
@@ -78,6 +90,8 @@ disponibilidade: Aberto a novas oportunidades e colaborações
 
 <div align="center">
 
+<img src="https://img.shields.io/badge/Fortinet-EE3124?style=for-the-badge&logo=fortinet&logoColor=white" alt="Fortinet" />
+<img src="https://img.shields.io/badge/Pentest-16213e?style=for-the-badge&logoColor=white" alt="Pentest" />
 <img src="https://img.shields.io/badge/OWASP-16213e?style=for-the-badge&logo=owasp&logoColor=white" alt="OWASP" />
 <img src="https://img.shields.io/badge/HashiCorp%20Vault-1a1a2e?style=for-the-badge&logo=vault&logoColor=white" alt="HashiCorp Vault" />
 <img src="https://img.shields.io/badge/Trivy-1904DA?style=for-the-badge&logo=trivy&logoColor=white" alt="Trivy" />
@@ -119,14 +133,13 @@ Princípios que aplico em todos os projetos:
 
 ## 🚀 Projetos em Destaque
 
-<!-- Substitua NOME_DO_REPO_1 e NOME_DO_REPO_2 pelos nomes de repositórios PÚBLICOS que deseja destacar -->
 <div align="center">
 
-<a href="https://github.com/OliverVb/NOME_DO_REPO_1">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=OliverVb&repo=NOME_DO_REPO_1&theme=dark&bg_color=0d1117&border_color=0f3460&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="Projeto em destaque 1" />
+<a href="https://github.com/OliverVb/Controle-Financeiro">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=OliverVb&repo=Controle-Financeiro&theme=dark&bg_color=0d1117&border_color=0f3460&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="Controle Financeiro - PHP 8 + MySQL, API REST e PWA" />
 </a>
-<a href="https://github.com/OliverVb/NOME_DO_REPO_2">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=OliverVb&repo=NOME_DO_REPO_2&theme=dark&bg_color=0d1117&border_color=0f3460&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="Projeto em destaque 2" />
+<a href="https://github.com/OliverVb/Barber-Shop">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=OliverVb&repo=Barber-Shop&theme=dark&bg_color=0d1117&border_color=0f3460&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="Barber Shop - Sistema de agendamento em PHP + MySQL" />
 </a>
 
 </div>
