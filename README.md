@@ -31,17 +31,17 @@
 ## 👨‍💻 Sobre Mim
 
 ```yaml
-nome:             Fabrício Alves de Oliveira
-cargo:            Analista de Infraestrutura & Segurança da Informação
-empresa_atual:    FADEX
-localizacao:      Brasil
-especialidades:
-  seguranca:      [Fortinet, Hardening, Pentest, Testes de Segurança Interna, Gestão de Acessos]
-  infraestrutura: [Proxmox, Active Directory, GPO, Zabbix, Grafana, Cabeamento Estruturado]
-  banco_de_dados: [SQL Server, MySQL, Modelagem, T-SQL, Otimização de Consultas]
-  backend:        [.NET, C#, Integração com Bancos Relacionais]
-foco_atual:       Servidores, redes e políticas de segurança em ambiente crítico
-disponibilidade:  Aberto a oportunidades e novos desafios
+Nome: Fabrício Alves de Oliveira
+Cargo: Analista de Infraestrutura & Segurança da Informação
+Empresa_atual: FADEX
+Localizacao: Goiânia-GO Brasil
+Especialidades: Cyber,Gestão de acessos, controle e administração de sistemas de monitramento de redes
+Segurança: [Fortinet, Hardening, Pentest, Testes de Segurança Interna, Gestão de Acessos]
+Infraestrutura: [Proxmox, Active Directory, GPO, Zabbix, Grafana, Cabeamento Estruturado]
+Banco_de_dados: [SQL Server, MySQL, Modelagem, T-SQL, Otimização de Consultas]
+Backend: [.NET, C#, Integração com Bancos Relacionais]
+Foco_atual: Servidores, redes e políticas de segurança em ambiente crítico
+Disponibilidade: Aberto a oportunidades e novos desafios
 ```
 
 <br>
