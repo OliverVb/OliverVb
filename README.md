@@ -1,7 +1,7 @@
 <!--
   ╔══════════════════════════════════════════════════════════════════╗
-  ║  README de perfil — Fabrício Oliveira (@OliverVb)                 ║
-  ║  Placeholders a substituir, se desejar:                          ║
+  ║ Fabrício Oliveira (@OliverVb)                 ║
+  ║   a substituir, se desejar:                          ║
   ║    • SEU_PERFIL_LINKEDIN → já preenchido no rodapé de contato     ║
   ║  Todas as imagens usam serviços estáveis (shields.io,            ║
   ║  capsule-render, demolab) para não quebrar visualmente.          ║
