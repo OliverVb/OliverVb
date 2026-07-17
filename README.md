@@ -1,6 +1,6 @@
 <!--
   ╔══════════════════════════════════════════════════════════════════╗
-  ║  Perfil de Fabrício Oliveira (@OliverVb)                          ║
+  ║  Perfil de Fabrício Alves de Oliveira (@OliverVb)                 ║
   ║                                                                  ║
   ║  IMPORTANTE: este arquivo PRECISA se chamar "README.md" para     ║
   ║  que o GitHub exiba a página do seu perfil. O nome do arquivo    ║
@@ -14,7 +14,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0f3460,50:16213e,100:1a1a2e&text=Fabr%C3%ADcio%20Oliveira&fontColor=e6e6e6&fontSize=46&fontAlignY=36&desc=Infraestrutura%20%E2%80%A2%20Seguran%C3%A7a%20da%20Informa%C3%A7%C3%A3o%20%E2%80%A2%20Backend%20.NET%2FC%23&descSize=17&descAlignY=56" width="100%" alt="Banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0f3460,50:16213e,100:1a1a2e&text=Fabr%C3%ADcio%20Alves%20de%20Oliveira&fontColor=e6e6e6&fontSize=38&fontAlignY=36&desc=Infraestrutura%20%E2%80%A2%20Seguran%C3%A7a%20da%20Informa%C3%A7%C3%A3o%20%E2%80%A2%20Backend%20.NET%2FC%23&descSize=17&descAlignY=58" width="100%" alt="Banner" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3500&pause=800&color=58A6FF&center=true&vCenter=true&width=640&height=55&lines=Analista+de+Infraestrutura+%26+Seguran%C3%A7a+da+Informa%C3%A7%C3%A3o;Fortinet+%C2%B7+Active+Directory+%C2%B7+Proxmox+%C2%B7+Zabbix;Backend+.NET+%2F+C%23+%C2%B7+SQL+Server+%C2%B7+MySQL;Pentest+%C2%B7+Hardening+%C2%B7+Ambientes+Cr%C3%ADticos" alt="Resumo profissional" />
 
@@ -31,7 +31,7 @@
 ## 👨‍💻 Sobre Mim
 
 ```yaml
-nome:          Fabrício Oliveira
+nome:          Fabrício Alves de Oliveira
 cargo:         Analista de Infraestrutura & Segurança da Informação
 empresa_atual: FADEX
 localizacao:   Brasil
