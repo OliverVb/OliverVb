@@ -36,15 +36,70 @@ cargo:         Analista de Infraestrutura & Segurança da Informação
 empresa_atual: FADEX
 localizacao:   Brasil
 especialidades:
-  seguranca:      [Fortinet, Hardening, Pentest, Gestão de Acessos]
-  infraestrutura: [Proxmox, Active Directory, GPO, Zabbix, Grafana]
-  banco_de_dados: [SQL Server, MySQL, T-SQL, Otimização de Consultas]
+  seguranca:      [Fortinet, Hardening, Pentest, Testes de Segurança Interna, Gestão de Acessos]
+  infraestrutura: [Proxmox, Active Directory, GPO, Zabbix, Grafana, Cabeamento Estruturado]
+  banco_de_dados: [SQL Server, MySQL, Modelagem, T-SQL, Otimização de Consultas]
   backend:        [.NET, C#, Integração com Bancos Relacionais]
 foco_atual:    Servidores, redes e políticas de segurança em ambiente crítico
 disponibilidade: Aberto a oportunidades e novos desafios
 ```
 
-> 💼 **Trajetória** — comecei no suporte técnico (Tahto), passei pela TI do Hospital de Olhos de Aparecida de Goiânia e atuei de 2022 a 2026 na Cristal Alimentos, unindo infraestrutura, segurança interna e desenvolvimento de sistemas em .NET. Hoje sou Analista de Infraestrutura na **FADEX**, cuidando de servidores, redes e políticas de segurança em ambiente crítico. Movido por desafios na interseção entre **infraestrutura, segurança e desenvolvimento**.
+<br>
+
+## 🧭 Experiência Profissional
+
+<details open>
+<summary><strong>Analista de Infraestrutura</strong> · FADEX (Fundação Cultural e de Fomento à Pesquisa, Ensino, Extensão e Inovação) <sub>Jan/2026 – Atual</sub></summary>
+<br>
+
+- Administração e monitoramento de ambientes de infraestrutura de TI
+- Gestão de servidores, redes e políticas de segurança
+- Suporte a usuários e manutenção da disponibilidade de serviços críticos
+
+</details>
+
+<details>
+<summary><strong>Técnico de TI</strong> · Cristal Alimentos <sub>Out/2022 – Jan/2026</sub></summary>
+<br>
+
+- Monitoramento de redes e infraestrutura interna
+- Administração de políticas Windows (GPO) e Active Directory
+- Gestão de acessos, firewall Fortinet e cabeamento estruturado
+- Reparo e manutenção de dispositivos e testes de segurança interna
+- Suporte técnico e resolução de tickets (N1/N2) para usuários internos
+- Desenvolvimento e correção de rotinas em sistemas internos (backend), consultas e otimizações em SQL Server
+- Atendimento ao cliente interno e suporte a sistemas de negócio
+
+</details>
+
+<details>
+<summary><strong>Assistente de TI</strong> · Hospital de Olhos de Aparecida de Goiânia <sub>Fev/2022 – Out/2022</sub></summary>
+<br>
+
+- Monitoramento de infraestrutura com Zabbix e Grafana
+- Aplicação de políticas GPO e administração via Active Directory
+- Suporte técnico ao usuário final
+
+</details>
+
+<details>
+<summary><strong>Assistente de TI</strong> · Brasil Telecom Call Center <sub>Fev/2017 – Fev/2022</sub></summary>
+<br>
+
+- Atendimento remoto a usuários
+- Suporte ao projeto de Home Office
+
+</details>
+
+<br>
+
+## 🎓 Formação & Certificações
+
+| Curso / Certificação | Instituição | Ano |
+|:---|:---|:---:|
+| 🛡️ Graduação em Segurança da Informação | Faculdade Cruzeiro do Sul | 2023 – 2025 |
+| 🎯 Certificação Pentester | IBSEC | 2025 |
+| 🗄️ Certificação em Administração de Banco de Dados e Linguagem SQL Server | Alura | 2025 |
 
 <br>
 
