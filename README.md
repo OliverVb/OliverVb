@@ -1,8 +1,12 @@
 <!--
   ╔══════════════════════════════════════════════════════════════════╗
-  ║ Fabrício Oliveira (@OliverVb)                 ║
-  ║   a substituir, se desejar:                          ║
-  ║    • SEU_PERFIL_LINKEDIN → já preenchido no rodapé de contato     ║
+  ║  Perfil de Fabrício Oliveira (@OliverVb)                          ║
+  ║                                                                  ║
+  ║  IMPORTANTE: este arquivo PRECISA se chamar "README.md" para     ║
+  ║  que o GitHub exiba a página do seu perfil. O nome do arquivo    ║
+  ║  não aparece para os visitantes — eles veem o seu nome no        ║
+  ║  banner logo abaixo. Não renomeie este arquivo.                  ║
+  ║                                                                  ║
   ║  Todas as imagens usam serviços estáveis (shields.io,            ║
   ║  capsule-render, demolab) para não quebrar visualmente.          ║
   ╚══════════════════════════════════════════════════════════════════╝
